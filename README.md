@@ -26,3 +26,10 @@ Somya Shruti
 
 ## 📷 Project Screenshot
 (Add screenshot here later)
+## 🌐 Live Demo
+
+[Open App](https://ai-resume-analyzer-4k9mkre6wec9pu2hqiprsf.streamlit.app/)
+
+## 📂 GitHub Repository
+
+[View Project](https://github.com/shrutisomya82-oss/AI-Resume-Analyzer)(Add screenshot here later)![App Screenshot](screenshot.png)
