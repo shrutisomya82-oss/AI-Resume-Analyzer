@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+streamlit
+pdfplumber
+pandas
+matplotlib
